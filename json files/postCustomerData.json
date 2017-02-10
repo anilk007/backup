@@ -1,0 +1,13 @@
+{
+	"customerdata": {
+		"BCIN": "DEVID_1234",
+		"userID": "U0056",
+		"accountingPackageIDs": [
+			1
+		],
+		"accountIDs": [
+			"4751 3000 9154 8945", "12345678", "678901234", "11111111"
+		]
+	}
+
+}
